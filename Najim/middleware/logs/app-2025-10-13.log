@@ -1,0 +1,6 @@
+{"timestamp":"2025-10-13T14:27:47.067+03:00","level":"info","message":"[ACR] MEDIA_ROOT ensured"} {"MEDIA_ROOT":"./media_cache"}
+{"timestamp":"2025-10-13T14:27:47.068+03:00","level":"info","message":"[ACR] media cleanup complete"} {"removed":0,"CACHE_TTL_HOURS":72}
+{"timestamp":"2025-10-13T14:28:05.390+03:00","level":"info","message":"[ACR] MEDIA_ROOT ensured"} {"MEDIA_ROOT":"./media_cache"}
+{"timestamp":"2025-10-13T14:28:05.391+03:00","level":"info","message":"[ACR] media cleanup complete"} {"removed":0,"CACHE_TTL_HOURS":72}
+{"timestamp":"2025-10-13T14:28:32.343+03:00","level":"info","message":"[ACR] MEDIA_ROOT ensured"} {"MEDIA_ROOT":"./media_cache"}
+{"timestamp":"2025-10-13T14:28:32.345+03:00","level":"info","message":"[ACR] media cleanup complete"} {"removed":0,"CACHE_TTL_HOURS":72}

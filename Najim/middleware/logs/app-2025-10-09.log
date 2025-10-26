@@ -1,0 +1,66 @@
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T08:50:35.850+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T08:50:35.852+03:00"}
+{"agentUser":"test","callPrefixUsed":null,"clientPhoneMasked":"2013","deviceIp":"192.168.0.136","dialNumberMasked":"2013","level":"info","message":"startcall received","reqId":"1759989239697_s0dw2x","ticketNumber":"try4553e35","timestamp":"2025-10-09T08:53:59.697+03:00"}
+{"agentUser":"test","callPrefixUsed":null,"clientName":"CRM_test_try4553e35_1759989239698","clientPhoneMasked":"2013","deviceIp":"192.168.0.136","dialNumberMasked":"2013","level":"info","message":"Registering One-X client","reqId":"1759989239697_s0dw2x","ticketNumber":"try4553e35","timestamp":"2025-10-09T08:53:59.698+03:00"}
+{"agentUser":"test","attrs":{"ClientId":"672d87d7-c11e-4028-a5d5-6435424829db","ResponseCode":"0"},"callPrefixUsed":null,"clientPhoneMasked":"2013","deviceIp":"192.168.0.136","dialNumberMasked":"2013","level":"info","message":"registerclient parsed","reqId":"1759989239697_s0dw2x","ticketNumber":"try4553e35","timestamp":"2025-10-09T08:54:00.155+03:00"}
+{"level":"info","message":"[DB] OnexCallLogs insert OK","timestamp":"2025-10-09T08:54:05.281+03:00"}
+{"agentUser":"test","callPrefixUsed":null,"clientId":"672d87d7-c11e-4028-a5d5-6435424829db","clientPhoneMasked":"2013","deviceIp":"192.168.0.136","dialNumberMasked":"2013","level":"info","message":"Unregistering One-X client","reqId":"1759989239697_s0dw2x","ticketNumber":"try4553e35","timestamp":"2025-10-09T08:54:05.282+03:00"}
+{"agentUser":"test","callPrefixUsed":null,"clientId":"672d87d7-c11e-4028-a5d5-6435424829db","clientPhoneMasked":"2013","deviceIp":"192.168.0.136","dialNumberMasked":"2013","level":"info","message":"Unregistered One-X client","reqId":"1759989239697_s0dw2x","ticketNumber":"try4553e35","timestamp":"2025-10-09T08:54:05.652+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:03:37.394+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:03:37.395+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:06:22.290+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:06:22.291+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:12:08.209+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:12:08.211+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:39:05.391+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:39:05.392+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:40:13.957+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:40:13.958+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:41:38.668+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:41:38.670+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:42:05.036+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:42:05.038+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:43:09.865+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:43:09.866+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:43:58.155+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:43:58.156+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:44:16.163+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:44:16.164+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:44:24.056+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:44:24.058+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T09:49:53.943+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T09:49:53.944+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T10:07:49.170+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T10:07:49.172+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T13:51:13.678+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T13:51:13.679+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T13:53:17.392+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T13:53:17.394+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:05:36.622+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:05:36.624+03:00"}
+{"agentUser":"","callPrefixUsed":null,"clientPhoneMasked":"4r4","deviceIp":"192.168.0.136","dialNumberMasked":"4r4","level":"info","message":"startcall received","reqId":"1760007965056_eovfeg","ticketNumber":"4rrf","timestamp":"2025-10-09T14:06:05.057+03:00"}
+{"agentUser":"","callPrefixUsed":null,"clientName":"CRM_anon_4rrf_1760007965058","clientPhoneMasked":"4r4","deviceIp":"192.168.0.136","dialNumberMasked":"4r4","level":"info","message":"Registering One-X client","reqId":"1760007965056_eovfeg","ticketNumber":"4rrf","timestamp":"2025-10-09T14:06:05.059+03:00"}
+{"agentUser":"","attrs":{"ClientId":"d289c47c-5c8d-4d48-beec-e6e3dab48880","ResponseCode":"0"},"callPrefixUsed":null,"clientPhoneMasked":"4r4","deviceIp":"192.168.0.136","dialNumberMasked":"4r4","level":"info","message":"registerclient parsed","reqId":"1760007965056_eovfeg","ticketNumber":"4rrf","timestamp":"2025-10-09T14:06:05.092+03:00"}
+{"level":"info","message":"[DB] OnexCallLogs insert OK","timestamp":"2025-10-09T14:06:07.390+03:00"}
+{"agentUser":"","callPrefixUsed":null,"clientId":"d289c47c-5c8d-4d48-beec-e6e3dab48880","clientPhoneMasked":"4r4","deviceIp":"192.168.0.136","dialNumberMasked":"4r4","level":"info","message":"Unregistering One-X client","reqId":"1760007965056_eovfeg","ticketNumber":"4rrf","timestamp":"2025-10-09T14:06:07.394+03:00"}
+{"agentUser":"","callPrefixUsed":null,"clientId":"d289c47c-5c8d-4d48-beec-e6e3dab48880","clientPhoneMasked":"4r4","deviceIp":"192.168.0.136","dialNumberMasked":"4r4","level":"info","message":"Unregistered One-X client","reqId":"1760007965056_eovfeg","ticketNumber":"4rrf","timestamp":"2025-10-09T14:06:07.402+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:16:12.206+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:16:12.207+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:16:34.043+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:16:34.045+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:18:59.340+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:18:59.342+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:28:55.251+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:28:55.252+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:29:36.105+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:29:36.106+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:31:09.493+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:31:09.494+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:40:30.830+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:40:30.832+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:40:44.689+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:40:44.690+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:41:18.252+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:41:18.254+03:00"}
+{"MEDIA_ROOT":"./media_cache","level":"info","message":"[ACR] MEDIA_ROOT ensured","timestamp":"2025-10-09T14:42:02.595+03:00"}
+{"CACHE_TTL_HOURS":72,"level":"info","message":"[ACR] media cleanup complete","removed":0,"timestamp":"2025-10-09T14:42:02.597+03:00"}

@@ -1,0 +1,5 @@
+Get-ItemProperty "HKCU:\Software\Avaya\Avaya one-X Agent\Settings" | Select APIAllowRemoteAccess
+
+Get-ItemProperty "HKLM:\SOFTWARE\WOW6432Node\Avaya\Avaya one-X Agent\Settings\Timers" | Select MaxWaitToNotify1XAClient
+
+netsh http show urlacl | findstr 60000

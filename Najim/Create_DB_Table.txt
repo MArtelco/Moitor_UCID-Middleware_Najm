@@ -1,0 +1,50 @@
+CREATE DATABASE Najem;
+GO
+USE Najem;
+
+CREATE TABLE dbo.OnexCallLogs (
+    id              INT IDENTITY(1,1) PRIMARY KEY,
+    log_date        DATETIME2(1) NOT NULL DEFAULT (SYSDATETIME()),
+    ucid            VARCHAR(MAX)     NULL,
+    ticket_number   VARCHAR(100)     NOT NULL,
+    client_phone    VARCHAR(50)      NOT NULL,
+    device_ip       VARCHAR(50)      NOT NULL,
+    station         VARCHAR(20)      NOT NULL,
+    client_id       VARCHAR(75)      NOT NULL,
+    interaction_id  VARCHAR(100)     NOT NULL,
+    agent_user      VARCHAR(100)     NULL
+);
+
+
+CREATE TABLE dbo.OnexActionLogs (
+  id             INT IDENTITY(1,1) PRIMARY KEY,
+  log_date       DATETIME2(1) NOT NULL DEFAULT SYSDATETIME(),
+  action         VARCHAR(50)  NOT NULL,     
+  device_ip      VARCHAR(50)  NOT NULL,
+  interaction_id VARCHAR(100) NOT NULL,
+  success        BIT          NOT NULL,     
+  agent_user     VARCHAR(100) NULL
+);
+
+
+ CREATE TABLE dbo.OnexDeviceMap (
+    device_ip   VARCHAR(50)  NOT NULL PRIMARY KEY,   
+    station     VARCHAR(20)  NOT NULL,               
+    label       VARCHAR(100) NULL,                  
+    created at  DATETIME2    NOT NULL DEFAULT SYSUTCDATETIME(),
+  );
+
+
+CREATE TABLE dbo.AcrResults (
+  id INT IDENTITY(1,1) PRIMARY KEY,
+  log_date       DATETIME2(1) NOT NULL DEFAULT SYSDATETIME(),
+  ucid VARCHAR(40) NULL,
+  inum VARCHAR(32) NOT NULL,
+  started_at DATETIME2 NULL,
+  duration_sec INT NULL,
+  agents NVARCHAR(256) NULL,
+  other_parties NVARCHAR(512) NULL,
+  services NVARCHAR(256) NULL,
+  skills NVARCHAR(256) NULL,
+  playback_url NVARCHAR(512) NULL
+);

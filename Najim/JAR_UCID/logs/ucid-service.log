@@ -1,0 +1,84 @@
+[LOG] Writing logs to C:\Users\Administrator\Downloads\test\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8081, DEFAULT_WAIT_MS=5000
+[2025-10-16T00:01:42.407-07:00[America/Los_Angeles]] Ready: GET /monitor?station=X | GET /health
+No logging configuration found in TSAPI.PRO file
+ We are here as we don't have any old log4j configurations.... Reconfiguring it...
+[2025-10-16T00:01:42.728-07:00[America/Los_Angeles]][WARN] [PROV] TsapiProviderOutOfServiceEvent â€” reconnecting
+[2025-10-16T00:01:42.733-07:00[America/Los_Angeles]] [PROV] IN_SERVICE
+[2025-10-16T00:01:42.983-07:00[America/Los_Angeles]] Provider is IN_SERVICE
+[LOG] Writing logs to C:\Users\Administrator\Downloads\JAR\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8081, DEFAULT_WAIT_MS=5000
+No logging configuration found in TSAPI.PRO file
+ We are here as we don't have any old log4j configurations.... Reconfiguring it...
+[2025-10-16T00:03:40.285-07:00[America/Los_Angeles]] Ready: GET /monitor?station=X | GET /health
+[2025-10-16T00:03:40.528-07:00[America/Los_Angeles]][WARN] [PROV] TsapiProviderOutOfServiceEvent â€” reconnecting
+[2025-10-16T00:03:40.532-07:00[America/Los_Angeles]] [PROV] IN_SERVICE
+[2025-10-16T00:03:40.782-07:00[America/Los_Angeles]] Provider is IN_SERVICE
+[LOG] Writing logs to C:\Users\Administrator\Downloads\JAR\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8081, DEFAULT_WAIT_MS=5000
+Exception in thread "main" java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:461)
+	at sun.nio.ch.Net.bind(Net.java:453)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+	at sun.net.httpserver.ServerImpl.<init>(ServerImpl.java:141)
+	at sun.net.httpserver.HttpServerImpl.<init>(HttpServerImpl.java:50)
+	at sun.net.httpserver.DefaultHttpServerProvider.createHttpServer(DefaultHttpServerProvider.java:35)
+	at com.sun.net.httpserver.HttpServer.create(HttpServer.java:130)
+	at UcidMonitorService.startHttp(UcidMonitorService.java:204)
+	at UcidMonitorService.start(UcidMonitorService.java:116)
+	at UcidMonitorService.main(UcidMonitorService.java:106)
+[LOG] Writing logs to C:\Users\Administrator\Downloads\JAR\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8081, DEFAULT_WAIT_MS=5000
+Exception in thread "main" java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:461)
+	at sun.nio.ch.Net.bind(Net.java:453)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+	at sun.net.httpserver.ServerImpl.<init>(ServerImpl.java:141)
+	at sun.net.httpserver.HttpServerImpl.<init>(HttpServerImpl.java:50)
+	at sun.net.httpserver.DefaultHttpServerProvider.createHttpServer(DefaultHttpServerProvider.java:35)
+	at com.sun.net.httpserver.HttpServer.create(HttpServer.java:130)
+	at UcidMonitorService.startHttp(UcidMonitorService.java:204)
+	at UcidMonitorService.start(UcidMonitorService.java:116)
+	at UcidMonitorService.main(UcidMonitorService.java:106)
+[LOG] Writing logs to C:\Users\Administrator\Downloads\JAR\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8082, DEFAULT_WAIT_MS=5000
+[2025-10-16T00:04:44.027-07:00[America/Los_Angeles]] Ready: GET /monitor?station=X | GET /health
+No logging configuration found in TSAPI.PRO file
+ We are here as we don't have any old log4j configurations.... Reconfiguring it...
+[2025-10-16T00:04:45.366-07:00[America/Los_Angeles]][WARN] [PROV] TsapiProviderOutOfServiceEvent â€” reconnecting
+[2025-10-16T00:04:45.371-07:00[America/Los_Angeles]] [PROV] IN_SERVICE
+[2025-10-16T00:04:45.621-07:00[America/Los_Angeles]] Provider is IN_SERVICE
+[2025-10-16T00:05:17.323-07:00[America/Los_Angeles]][WARN] Shutting down...
+[LOG] Writing logs to C:\Users\Administrator\Downloads\JAR\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8082, DEFAULT_WAIT_MS=5000
+[2025-10-16T00:05:20.911-07:00[America/Los_Angeles]] Ready: GET /monitor?station=X | GET /health
+No logging configuration found in TSAPI.PRO file
+ We are here as we don't have any old log4j configurations.... Reconfiguring it...
+[2025-10-16T00:05:21.251-07:00[America/Los_Angeles]][WARN] [PROV] TsapiProviderOutOfServiceEvent â€” reconnecting
+[2025-10-16T00:05:21.256-07:00[America/Los_Angeles]] [PROV] IN_SERVICE
+[2025-10-16T00:05:21.506-07:00[America/Los_Angeles]] Provider is IN_SERVICE
+[2025-10-16T00:05:23.751-07:00[America/Los_Angeles]][WARN] Shutting down...
+[2025-10-16T00:05:23.759-07:00[America/Los_Angeles][LOG] Writing logs to C:\Users\Administrator\Downloads\JAR\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8082, DEFAULT_WAIT_MS=5000
+No logging configuration found in TSAPI.PRO file
+[2025-10-16T00:05:26.334-07:00[America/Los_Angeles]] Ready: GET /monitor?station=X | GET /health
+ We are here as we don't have any old log4j configurations.... Reconfiguring it...
+[2025-10-16T00:05:26.673-07:00[America/Los_Angeles]][WARN] [PROV] TsapiProviderOutOfServiceEvent â€” reconnecting
+[2025-10-16T00:05:26.677-07:00[America/Los_Angeles]] [PROV] IN_SERVICE
+[2025-10-16T00:05:26.928-07:00[America/Los_Angeles]] Provider is IN_SERVICE
+[2025-10-16T00:05:27.979-07:00[America/Los_Angeles]][WARN] Shutting down...
+[[LOG] Writing logs to C:\Users\Administrator\Downloads\JAR\logs\ucid-service.log
+[BOOT] TLINK=AVAYA#CM#CSTA#AES01, USER=Mtest, PASS=R**#, HTTP=8082, DEFAULT_WAIT_MS=5000
+[2025-10-16T00:05:43.148-07:00[America/Los_Angeles]] Ready: GET /monitor?station=X | GET /health
+No logging configuration found in TSAPI.PRO file
+ We are here as we don't have any old log4j configurations.... Reconfiguring it...
+[2025-10-16T00:05:43.445-07:00[America/Los_Angeles]][WARN] [PROV] TsapiProviderOutOfServiceEvent â€” reconnecting
+[2025-10-16T00:05:43.450-07:00[America/Los_Angeles]] [PROV] IN_SERVICE
+[2025-10-16T00:05:43.700-07:00[America/Los_Angeles]] Provider is IN_SERVICE
+[2025-10-16T00:06:02.131-07:00[America/Los_Angeles]] Monitoring station 1102
+[2025-10-16T00:06:02.183-07:00[America/Los_Angeles]] [UCID] 00001006671760598306 (from TsapiCallActiveEvent)
+[2025-10-16T00:06:02.188-07:00[America/Los_Angeles]] Detached monitor 1102
